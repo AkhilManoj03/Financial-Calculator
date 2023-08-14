@@ -1,0 +1,7 @@
+{
+    "401" : "Ungültige Parameter",
+    "404" : "Nicht gefunden",
+    "703" : "Service Nicht Gefunden",
+    "813" : "Sprache Nicht Gefunden",
+    "903" : "Steuerjahr Nicht Gefunden"
+}

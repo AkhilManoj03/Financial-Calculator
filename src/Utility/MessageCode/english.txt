@@ -1,0 +1,7 @@
+{
+    "401" : "Invalid parameters",
+    "404" : "Not Found",
+    "703" : "Service Not Found",
+    "813" : "Language Not Found",
+    "903" : "Tax Year Not Found"
+}

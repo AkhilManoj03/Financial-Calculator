@@ -1,0 +1,7 @@
+{
+    "401" : "Parámetros Inválidos",
+    "404" : "No Encontrada",
+    "703" : "Servicio No Encontrado",
+    "813" : "Idioma No Encontrado",
+    "903" : "Año Fiscal No Encontrado"
+}
